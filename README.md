@@ -1,2 +1,2 @@
 # Chimera-EEG-paper
-Please read the README.txt before using the codes.
+Please read the README.docx before using the codes.
